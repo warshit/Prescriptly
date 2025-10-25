@@ -2,7 +2,9 @@
 
 A modern healthcare application that leverages AI to help users manage prescriptions, check symptoms, and access medical information with precision and ease.
 
-![Prescriptly Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
+<div align="center">
+  <img src="logo.png" alt="Prescriptly Logo" width="400" style="margin: 20px 0;" />
+</div>
 
 ## Features ✨
 
