@@ -1,0 +1,5 @@
+{
+  "name": "Medical Precision",
+  "description": "An AI-driven healthcare e-commerce web application that uses Optical Character Recognition (OCR) and Natural Language Processing (NLP) to read and interpret medical prescriptions or tablet labels, simplifying online medicine ordering.",
+  "requestFramePermissions": []
+}
