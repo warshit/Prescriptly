@@ -3,7 +3,7 @@
 A modern healthcare application that leverages AI to help users manage prescriptions, check symptoms, and access medical information with precision and ease.
 
 <div align="center">
-  <img src="logo.png" alt="Prescriptly Logo" width="400" style="margin: 20px 0;" />
+  <img src="logo.png" alt="Prescriptly Logo" width="700" style="margin: 20px 0;" />
 </div>
 
 ## Features ✨
@@ -131,9 +131,5 @@ This application is for demonstration purposes only. Always consult healthcare p
 
 This project is proprietary software. All rights reserved.
 
-## Support 💬
-
-For support, please open an issue in the repository or contact the maintainers.
-
 ---
-Made with ❤️ by [warshit](https://github.com/warshit)
+
